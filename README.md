@@ -1,11 +1,22 @@
 ## Contents
-* [Live Demo on Streamlit](#live-demo-on-streamlit) (Upcoming)
+* [Live Demo on Streamlit](#live-demo-on-streamlit)
 * [Tables and Figures](#tables-and-figures)
 * [Code Details](#code-details)
 * [Data Details](#data-details)
 
 ## Live Demo on Streamlit
-Stay tuned for our upcoming live demo on Streamlit, where you'll be able to interact with our project in action!
+
+### [Go to the Demo!](https://brick-kilns-detector.streamlit.app/)
+
+### Screenshots
+
+<img width="1257" alt="Screenshot 2023-08-22 at 12 01 27 PM" src="https://github.com/ouranonymoussubmission/brick-kiln/assets/72247818/89cbb362-e370-4bbf-9585-e8233dce88c6">
+
+
+<img width="1256" alt="Screenshot 2023-08-22 at 12 03 56 PM" src="https://github.com/ouranonymoussubmission/brick-kiln/assets/72247818/95f05e90-8def-46a2-b33d-84138b26641d">
+
+### Instructions
+You can see the brick-kiln detection in action via [this demo](https://brick-kilns-detector.streamlit.app/). All you need is an API key from Google Compute Platform (GCP). You may refer to [this tutorial](https://cloud.google.com/docs/authentication/api-keys#create) on "how to create a GCP API key?" 
 
 ## Tables and Figures
 
